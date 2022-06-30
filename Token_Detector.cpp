@@ -1,4 +1,4 @@
-// Assignment By Akhlas Ahmed - Roll # 77 - BSCS 5th Sem - Compiler Construction Assignment # 1
+// Code By Akhlas Hashmi
 #include <iostream>
 #include <string>
 using namespace std;
